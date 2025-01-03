@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="absolute bottom-0 bg-transparent w-full p-4 backdrop-blur-sm">
+    <footer className="fixed bottom-0 bg-transparent w-full p-2 backdrop-blur-sm">
       <p className="text-center text-slate-400">
         Checkout my GitHub Profile {"-> "}
         <a
