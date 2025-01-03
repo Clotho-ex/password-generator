@@ -21,8 +21,8 @@ function App() {
             </p>
             <PasswordGenerator />
           </article>
-        </main>
         <Footer />
+        </main>
       </ErrorBoundary>
     </>
   );
