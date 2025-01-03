@@ -19,7 +19,7 @@ const PasswordDisplay = ({
       <button
         type="button"
         onClick={onCopy}
-        className="ml-4 p-2 text-green-400 hover:text-green-300 transition-colors flex items-center gap-2"
+        className="ml-3 p-2 text-green-400 hover:text-green-300 transition-colors flex items-center gap-2"
         aria-label={copied ? "Password copied" : "Copy password"}>
         {copied ? (
           <>
