@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-full p-2 pt-6">
       <p className="text-center text-slate-400">
-        Checkout my GitHub Profile {"-> "}
+        Checkout my GitHub Profile <br />
         <a
           href="https://github.com/Clotho-ex"
           className="text-green-400 hover:text-green-300 transition-colors underline underline-offset-4"
