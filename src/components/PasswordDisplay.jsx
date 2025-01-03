@@ -23,7 +23,7 @@ const PasswordDisplay = ({
         aria-label={copied ? "Password copied" : "Copy password"}>
         {copied ? (
           <>
-            <span className="text-xs font-medium">Copied</span>
+            <span className="text-sm font-medium">Copied</span>
             <Check size={20} />
           </>
         ) : (
