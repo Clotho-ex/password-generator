@@ -22,8 +22,6 @@ This is a solution to the [Password generator app challenge on Frontend Mentor](
 
 ## Overview
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/91b193d1-d2b4-4a7f-a62d-86b333961d3f/deploy-status)](https://app.netlify.com/sites/password-generator-clothoex/deploys)
-
 ### The challenge
 
 Users should be able to:
