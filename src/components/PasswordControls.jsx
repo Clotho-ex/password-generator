@@ -33,7 +33,7 @@ const PasswordControls = ({
           max="20"
           value={length}
           onChange={(e) => setLength(parseInt(e.target.value))}
-          className="w-full accent-green-400"
+          className="w-full accent-green-400 h-4 rounded-lg appearance-none cursor-pointer bg-slate-900"
         />
       </div>
 
